@@ -1,0 +1,9 @@
+/node_modules
+
+# env file
+.env
+.env.local
+.env*.local*
+
+# code editor files
+/.vscode
